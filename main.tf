@@ -15,7 +15,7 @@ terraform {
     organization = "kumard31-Terraform-Labs"
 
     workspaces {
-      name = "my-workspace"
+      name = "remote-workspace"
     }
   }
 }
